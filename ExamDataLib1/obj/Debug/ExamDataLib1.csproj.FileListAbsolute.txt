@@ -1,0 +1,5 @@
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamDataLib1\bin\Debug\ExamDataLib1.dll
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamDataLib1\bin\Debug\ExamDataLib1.pdb
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamDataLib1\obj\Debug\ExamDataLib1.csprojResolveAssemblyReference.cache
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamDataLib1\obj\Debug\ExamDataLib1.dll
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamDataLib1\obj\Debug\ExamDataLib1.pdb

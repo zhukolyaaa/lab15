@@ -1,0 +1,13 @@
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\ExamClient.exe.config
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\ExamClient.exe
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\ExamClient.pdb
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\ExamDataLib1.dll
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\WpfApplication1.exe
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\ExamDataLib1.pdb
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\bin\Debug\WpfApplication1.pdb
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.csprojResolveAssemblyReference.cache
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.Form1.resources
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.Properties.Resources.resources
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.csproj.GenerateResource.Cache
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.exe
+C:\Users\zhuko\OneDrive\Desktop\с#\ExamDataLib1\ExamClient\obj\Debug\ExamClient.pdb
